@@ -1,6 +1,6 @@
 # Tic Tac Toe : Smart Contract using Solidity
 
-In this repository we will see a Smart Contract for Tic-Tac-toe : a famous game uing Solidity programming Language.<br><br>
+In this repository we will see a Smart Contract for Tic-Tac-toe : a famous game using Solidity programming Language.<br><br>
 
 > ### **Tips: Before we Begin**
 >
